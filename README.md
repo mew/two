@@ -1,2 +1,3 @@
 # two
-haha get it its funny i swear
+haha get it guys its funny i swear
+![mewtwo](https://raw.githubusercontent.com/mew/two/master/mewtwo.png)
